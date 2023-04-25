@@ -1,12 +1,16 @@
-# <div align="left">I'm Denys. <br/> Beginner full-stack developer 👨‍💻 </div>
+# <div align="left">I'm Denys <br/> Beginner full-stack developer 👨‍💻 </div>
 
 <div align="center">
 <img src="./img/img.gif" align="center" style="width: 100%"/>
 </div>
 
-- 🔭 I’m currently taking a 10-month Full Stack Dev course from the online school GoIT.
+- 🔭 I’m currently taking a 10-month Full Stack Dev course from the online school GoIT
 
 - 🌱 I’m currently learning English and Danish
+
+- 👻 Graduated from college as a Junior Software Developer
+
+- 🤖 Completed a couple of courses on Udemy
 
 - ❓ Give me any task and I will try to complete it
 
@@ -84,13 +88,30 @@
 
 <br/>
 
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zakaz01k&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ## Recent Blog Posts
 
 ### Currently job
 
+I currently work for the Wolt food delivery service. I hate this job with all my heart. Therefore, in my free time I study programming to change my profession.
+
 <!-- BLOG-POST-LIST:START -->
 
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.
+### Studiyng
+
+Currently, I am taking a 10-month Full Stack Dev course from the online school GoIT. I have a portfolio, which includes a completed project <a href="https://github.com/Sheremeta-Ivan/Project-group-6">link</a> and a collaborative team project <a href="https://github.com/Sheremeta-Ivan/Project-group-6">link</a>, where I worked on layout and form integration (in the team project, I took the initiative to take on additional work by writing a script for an inactive form submission button). By the way, thanks to the knowledge I gained in college, I learned to think about the future of projects. I graduated from college with a degree in "Junior Software Developer," where I gained skills in C++, loops, architecture, and OOP👌.
 
 <!-- BLOG-POST-LIST:END -->
 
