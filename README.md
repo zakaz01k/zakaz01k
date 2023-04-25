@@ -1,4 +1,4 @@
-# <div align="left">I'm Denys, beginner a full-time full-stack developer 👨‍💻 studying remotely since 2020 🚀</div>
+# <div align="left">I'm Denys, beginner full-stack developer 👨‍💻 </div>
 
 <div align="center">
 <img src="./img/img.gif" align="center" style="width: 100%"/>
