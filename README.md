@@ -32,7 +32,7 @@
 </div>
 
 </td><td valign="top" width="33%">
-
+<br/>
 ### <div align="center"> In progress</div>
 
 <div align="center">  
