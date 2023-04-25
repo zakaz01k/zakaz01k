@@ -111,7 +111,7 @@ I currently work for the Wolt food delivery service. I hate this job with all my
 
 ### Studiyng
 
-Currently, I am taking a 10-month Full Stack Dev course from the online school GoIT. I have a portfolio, which includes a completed project <a href="https://github.com/Sheremeta-Ivan/Project-group-6">link</a> and a collaborative team project <a href="https://github.com/Sheremeta-Ivan/Project-group-6">link</a>, where I worked on layout and form integration (in the team project, I took the initiative to take on additional work by writing a script for an inactive form submission button). By the way, thanks to the knowledge I gained in college, I learned to think about the future of projects. I graduated from college with a degree in "Junior Software Developer," where I gained skills in C++, loops, architecture, and OOP👌.
+Currently, I am taking a 10-month Full Stack Dev course from the online school GoIT. I have a portfolio, which includes a completed project <a href="https://github.com/zakaz01k/goit-markup-hw-07">link</a> and a collaborative team project <a href="https://github.com/Sheremeta-Ivan/Project-group-6">link</a>, where I worked on layout and form integration (in the team project, I took the initiative to take on additional work by writing a script for an inactive form submission button). By the way, thanks to the knowledge I gained in college, I learned to think about the future of projects. I graduated from college with a degree in "Junior Software Developer," where I gained skills in C++, loops, architecture, and OOP👌.
 
 <!-- BLOG-POST-LIST:END -->
 
