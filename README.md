@@ -1,7 +1,7 @@
 #### <div align="center">I'm Denys, beginner a full-time full-stack developer 👨‍💻 studying remotely since 2020 🚀</div>
 
 <div align="center">
-<img src="./img/header.gif" align="center" style="width: 100%"/>
+<img src="./img/img.gif" align="center" style="width: 100%"/>
 </div>
 
 - 🔭 I’m currently taking a 10-month Full Stack Dev course from the online school GoIT.
