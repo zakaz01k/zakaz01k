@@ -1,4 +1,4 @@
-# <div align="left">I'm Denys, beginner full-stack developer 👨‍💻 </div>
+# <div align="left">I'm Denys. <br/> Beginner full-stack developer 👨‍💻 </div>
 
 <div align="center">
 <img src="./img/img.gif" align="center" style="width: 100%"/>
@@ -32,8 +32,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-<br/>
 
 ### <div align="center"> In progress</div>
 
