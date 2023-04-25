@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" style="height: 60%"/>
+<img src="./img/header.gif" align="center" style="width: 100%"/>
 </div>
 
 ### <div align="center">I'm Denys, beginner a full-time full-stack developer 👨‍💻 studying remotely since 2020 🚀</div>
