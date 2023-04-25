@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" style="height: 60%"/>
+</div>
 
 ### <div align="center">I'm Denys, beginner a full-time full-stack developer 👨‍💻 studying remotely since 2020 🚀</div>
 
@@ -75,8 +74,7 @@
 <a href="https://www.behance.net/denyarikhin" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -102,8 +100,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=zakaz01k&&style=flat-square" align="center" />
-</div>  
-
+</div>
 
 <br/>
 
