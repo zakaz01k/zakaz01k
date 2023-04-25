@@ -1,8 +1,8 @@
+#### <div align="center">I'm Denys, beginner a full-time full-stack developer 👨‍💻 studying remotely since 2020 🚀</div>
+
 <div align="center">
 <img src="./img/header.gif" align="center" style="width: 100%"/>
 </div>
-
-### <div align="center">I'm Denys, beginner a full-time full-stack developer 👨‍💻 studying remotely since 2020 🚀</div>
 
 - 🔭 I’m currently taking a 10-month Full Stack Dev course from the online school GoIT.
 
@@ -18,7 +18,7 @@
 
 <table><tr><td valign="top" width="33%">
 
-### Frontend
+### <div align="center"> Learned</div>
 
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -33,7 +33,7 @@
 
 </td><td valign="top" width="33%">
 
-### In progres
+### <div align="center"> In progress</div>
 
 <div align="center">  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
@@ -48,8 +48,8 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-</td></tr></table>
+</table>
+<!-- </td></tr></table> -->
 
 <br/>
 
